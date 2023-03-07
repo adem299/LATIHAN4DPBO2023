@@ -1,6 +1,7 @@
 # LATIHAN4DPBO2023
 Saya Ade Mulyana NIM 2108799 mengerjakan soal Latihan4 dalam mata kuliah Desain dan Pemrograman Berorientasi Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
 
+# Desain Program
 ![ClassDiagramLat4-2](https://user-images.githubusercontent.com/100661834/223288466-23d618ec-8a2d-4d7b-b0d2-8cd692266628.png)
 
 Berdasarkan diagram diatas dapat disimpulkan:
