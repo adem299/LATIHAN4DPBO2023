@@ -14,10 +14,10 @@ Pertama input data Mahasiswa, dosen dan beberapa course/matkul berdasarkan hardc
 
 ![Screenshot (255)](https://user-images.githubusercontent.com/100661834/223343554-5826dec4-9eb5-490c-9dfd-651219e22939.png)
 
-Untuk hasil data list mahasiswa
+Setelah program dijalankan input 1 untuk menampilkan data mahasiswa
 
 ![Screenshot (250)](https://user-images.githubusercontent.com/100661834/223343754-28a5fddf-a7c3-4dd4-bc47-e99f0c858144.png)
 
-Untuk hasil data list dosen
+input 2 untuk menampilkan data dosen
 
 ![Screenshot (252)](https://user-images.githubusercontent.com/100661834/223343914-5f551d61-fd30-436e-904a-4a569232196b.png)
