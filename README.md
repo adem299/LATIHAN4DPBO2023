@@ -2,7 +2,7 @@
 Saya Ade Mulyana NIM 2108799 mengerjakan soal Latihan4 dalam mata kuliah Desain dan Pemrograman Berorientasi Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
 
 # Desain Program
-![ClassDiagramLat4-2](https://user-images.githubusercontent.com/100661834/223288466-23d618ec-8a2d-4d7b-b0d2-8cd692266628.png)
+![ClassDiagramLat4-2](https://user-images.githubusercontent.com/100661834/223343421-c56641bb-a9ba-494c-8e17-e057eb75dc0c.png)
 
 Berdasarkan diagram diatas dapat disimpulkan:
 Tedapat 6 class dimana yang mempunyai atibut bebeda dan mempunyai method yang sama getter dan setter serta terdapat method printCourseList pada class ProgramStudi untuk menampilkan list Course yang di input.
@@ -11,10 +11,13 @@ Selanjutnya class Mahasiswa dan dosen juga composite atau memiliki class Program
 
 # Alur Program
 Pertama input data Mahasiswa, dosen dan beberapa course/matkul berdasarkan hardcode
-![Screenshot (254)](https://user-images.githubusercontent.com/100661834/223339377-9dbd7982-81e7-40b6-b478-89cca981abaf.png)
+
+![Screenshot (255)](https://user-images.githubusercontent.com/100661834/223343554-5826dec4-9eb5-490c-9dfd-651219e22939.png)
 
 Untuk hasil data list mahasiswa
-![Screenshot (250)](https://user-images.githubusercontent.com/100661834/223340162-44a2fd5d-cfdf-4cc1-ab0f-ad45dd6aaa7e.png)
+
+![Screenshot (250)](https://user-images.githubusercontent.com/100661834/223343754-28a5fddf-a7c3-4dd4-bc47-e99f0c858144.png)
 
 Untuk hasil data list dosen
-![Screenshot (252)](https://user-images.githubusercontent.com/100661834/223341265-0c69ba3b-874d-4180-b632-4a147a79ae5b.png)
+
+![Screenshot (252)](https://user-images.githubusercontent.com/100661834/223343914-5f551d61-fd30-436e-904a-4a569232196b.png)
